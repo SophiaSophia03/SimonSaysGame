@@ -14,7 +14,7 @@ A simple Simon Says game built using HTML, CSS, and JavaScript. The game challen
 - **JavaScript**: Used for the game logic, including generating sequences and handling user input.
 
 ## How to Play
-1. Click the "Start" button to begin the game.
+1. Press any key to begin the game.
 2. The computer will generate a sequence of colors and play corresponding sounds.
 3. Repeat the sequence by clicking the color buttons in the correct order.
 4. If you repeat the sequence correctly, the game will generate a longer sequence.
